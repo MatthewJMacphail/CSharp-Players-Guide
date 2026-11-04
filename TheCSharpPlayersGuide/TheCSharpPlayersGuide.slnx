@@ -3,6 +3,7 @@
     <Project Path="01-The-Basics/ConsolasAndTelim/ConsolasAndTelim.csproj" />
     <Project Path="01-The-Basics/HelloWorld/HelloWorld.csproj" />
     <Project Path="01-The-Basics/TheMakingsOfAProgrammer/TheMakingsOfAProgrammer.csproj" />
+    <Project Path="01-The-Basics/TheThingNamer3000/TheThingNamer3000.csproj" />
     <Project Path="01-The-Basics/WhatComesNext/WhatComesNext.csproj" />
   </Folder>
   <Folder Name="/02-OOP/" />
