@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/01-The-Basics/">
+    <Project Path="01-The-Basics/ConsolasAndTelim/ConsolasAndTelim.csproj" />
     <Project Path="01-The-Basics/HelloWorld/HelloWorld.csproj" />
     <Project Path="01-The-Basics/TheMakingsOfAProgrammer/TheMakingsOfAProgrammer.csproj" />
     <Project Path="01-The-Basics/WhatComesNext/WhatComesNext.csproj" />
