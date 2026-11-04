@@ -6,4 +6,4 @@ Console.WriteLine("How would you describe it? Big? Azure? Tattered?");
 string descriptiveOfItem = Console.ReadLine();
 string itemFlairName = "of Doom";
 string itemVersion = "3000";
-Console.WriteLine("The " + descriptiveOfItem + " " + itemName + " of " + itemFlairName + " " + itemVersion + "!");
+Console.WriteLine("The " + descriptiveOfItem + " " + itemName + " " + itemFlairName + " " + itemVersion + "!");
